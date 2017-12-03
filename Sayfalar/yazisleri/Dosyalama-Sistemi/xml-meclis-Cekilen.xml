@@ -1,0 +1,217 @@
+<rows>
+	<head>
+         <column width='40' type='ro' align='left' sort='str'>Tipi</column>
+		<column width='*' type='ro' align='left' sort='str'>Dosya Adı</column>
+                <column width='*' type='ro' align='left' sort='str'>Dosya Yüklenme Tarihi</column>
+		<column width='*' type='ro' align='left' sort='int'>Boyutu</column>
+		<column width='*' type='ro' align='left' sort='str'>Yükleyen</column>
+            </head>
+        <row id='1'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/pdf.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/meclis-birimi-uploaded/09172012094454.pdf'>09172012094454.pdf</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>28.08.2016 12:43</cell>
+                                     <cell>71693</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='2'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/pdf.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/meclis-birimi-uploaded/12182012075748.pdf'>12182012075748.pdf</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>28.08.2016 12:43</cell>
+                                     <cell>58701</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='3'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/pdf.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/meclis-birimi-uploaded/android_advanced_tutorial.pdf'>android_advanced_tutorial.pdf</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>28.08.2016 12:42</cell>
+                                     <cell>7299175</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='4'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/pdf.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/meclis-birimi-uploaded/Betik Dili (javascript).pdf'>Betik Dili (javascript).pdf</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>07.08.2016 16:18</cell>
+                                     <cell>1265175</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='5'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/documents.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/meclis-birimi-uploaded/boradcartreeiver i�lemi.txt'>boradcartreeiver i�lemi.txt</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>28.08.2016 12:42</cell>
+                                     <cell>61</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='6'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/png.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/meclis-birimi-uploaded/C.png'>C.png</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>03.08.2016 19:34</cell>
+                                     <cell>597</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='7'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/png.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/meclis-birimi-uploaded/d.png'>d.png</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>03.08.2016 19:34</cell>
+                                     <cell>444</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='8'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/folderis.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/meclis-birimi-uploaded/fayda'>fayda</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>28.08.2016 12:41</cell>
+                                     <cell>0</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='9'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/png.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/meclis-birimi-uploaded/gif.png'>gif.png</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>25.08.2016 14:51</cell>
+                                     <cell>2669</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='10'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/pdf.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/meclis-birimi-uploaded/ileri_seviye_javascript.pdf'>ileri_seviye_javascript.pdf</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>07.08.2016 16:18</cell>
+                                     <cell>291715</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='11'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/png.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/meclis-birimi-uploaded/islemler.png'>islemler.png</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>04.08.2016 11:19</cell>
+                                     <cell>417</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='12'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/pdf.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/meclis-birimi-uploaded/JavaScript-kitap.pdf'>JavaScript-kitap.pdf</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>07.08.2016 16:18</cell>
+                                     <cell>386844</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='13'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/pdf.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/meclis-birimi-uploaded/jQuery_Cookbook 61.pdf'>jQuery_Cookbook 61.pdf</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>08.08.2016 10:49</cell>
+                                     <cell>5951960</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='14'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/png.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/meclis-birimi-uploaded/png.png'>png.png</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>25.08.2016 14:50</cell>
+                                     <cell>2742</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='15'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/jpeg.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/meclis-birimi-uploaded/social.jpg'>social.jpg</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>03.08.2016 17:16</cell>
+                                     <cell>1868</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='16'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/folderis.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/meclis-birimi-uploaded/yaramaz'>yaramaz</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>28.08.2016 12:41</cell>
+                                     <cell>0</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    </rows>

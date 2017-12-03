@@ -1,0 +1,29 @@
+keytool -list -v -keystore "%USERPROFILE%\.android\debug.keystore" -alias androiddebugkey -storepass android -keypass android
+
+-----------------------------------------
+
+
+
+
+C:\Program Files (x86)\Java\jdk1.6.0_18\bin>keytool -list -v -keystore "%USERPRO
+FILE%\.android\debug.keystore" -alias androiddebugkey -storepass android -keypas
+s android
+Alias name: androiddebugkey
+Creation date: 27.Eki.2015
+Entry type: PrivateKeyEntry
+Certificate chain length: 1
+Certificate[1]:
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 562f7e75
+Valid from: Tue Oct 27 15:39:01 EET 2015 until: Thu Oct 19 16:39:01 EEST 2045
+Certificate fingerprints:
+         MD5:  73:53:3C:9E:B9:D4:34:B4:F1:61:8C:A5:89:F5:60:F6
+         SHA1: 4D:00:C2:BB:3F:6B:B9:16:15:D5:E3:67:1F:B9:DA:90:D2:B9:DA:58
+         Signature algorithm name: SHA1withRSA
+         Version: 3
+--------------------------------------------------
+googlen verdigi API
+
+Here is  your API KEY
+AIzaSyAaKSI0mB_DnT5AnjDCW7Ngmtmaehfsru0

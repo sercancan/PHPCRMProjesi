@@ -1,0 +1,138 @@
+
+         
+/* line 549, C:/superial-blue-m2/build/css/scss/_bootstrapComponents.scss */
+.inputWrapper {
+  margin: 1px; }
+
+/* line 555, C:/superial-blue-m2/build/css/scss/_bootstrapComponents.scss */
+.inputWrapper input,
+.inputWrapper textarea,
+.inputWrapper select {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  box-shadow: none;
+  border-radius: 0px; }
+
+/* line 563, C:/superial-blue-m2/build/css/scss/_bootstrapComponents.scss */
+.inputWrapper label {
+  font-size: 14px;
+  font-weight: normal;
+  margin-left: 5px; }
+  @media (max-width: 768px) {
+    /* line 563, C:/superial-blue-m2/build/css/scss/_bootstrapComponents.scss */
+    .inputWrapper label {
+      margin-left: 25px; } }
+
+/* line 572, C:/superial-blue-m2/build/css/scss/_bootstrapComponents.scss */
+.inputWrapper .form-control {
+  padding-left: 0 !important; }
+  /* line 574, C:/superial-blue-m2/build/css/scss/_bootstrapComponents.scss */
+  .inputWrapper .form-control:focus {
+    border-color: #00e2f0;
+    outline: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none; }
+
+/* line 582, C:/superial-blue-m2/build/css/scss/_bootstrapComponents.scss */
+.form-control:focus {
+  border-color: #66afe9;
+  outline: 0;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6); }
+
+/* line 589, C:/superial-blue-m2/build/css/scss/_bootstrapComponents.scss */
+.inputWrapper input::-webkit-input-placeholder {
+  font-style: italic;
+  color: #333 !important; }
+
+/* line 594, C:/superial-blue-m2/build/css/scss/_bootstrapComponents.scss */
+.inputWrapper input::-moz-placeholder {
+  font-style: italic;
+  color: #333 !important; }
+
+/* line 599, C:/superial-blue-m2/build/css/scss/_bootstrapComponents.scss */
+.inputWrapper input:-moz-placeholder {
+  font-style: italic;
+  color: #333 !important; }
+
+/* line 604, C:/superial-blue-m2/build/css/scss/_bootstrapComponents.scss */
+.inputWrapper input:-ms-input-placeholder {
+  font-style: italic;
+  color: #333 !important; }
+
+/* line 610, C:/superial-blue-m2/build/css/scss/_bootstrapComponents.scss */
+.inputWrapper textarea::-webkit-input-placeholder {
+  font-style: italic;
+  color: #333 !important; }
+
+/* line 615, C:/superial-blue-m2/build/css/scss/_bootstrapComponents.scss */
+.inputWrapper textarea::-moz-placeholder {
+  font-style: italic;
+  color: #333 !important; }
+
+/* line 620, C:/superial-blue-m2/build/css/scss/_bootstrapComponents.scss */
+.inputWrapper textarea:-moz-placeholder {
+  font-style: italic;
+  color: #333 !important; }
+
+/* line 625, C:/superial-blue-m2/build/css/scss/_bootstrapComponents.scss */
+.inputWrapper textarea:-ms-input-placeholder {
+  font-style: italic;
+  color: #333 !important; }
+
+/* line 631, C:/superial-blue-m2/build/css/scss/_bootstrapComponents.scss */
+.inputWrapper .bold input::-webkit-input-placeholder {
+  font-style: normal;
+  font-weight: bold !important;
+  color: #333 !important; }
+
+/* line 637, C:/superial-blue-m2/build/css/scss/_bootstrapComponents.scss */
+.inputWrapper .bold input::-moz-placeholder {
+  font-style: normal;
+  font-weight: bold !important;
+  color: #333 !important; }
+
+/* line 643, C:/superial-blue-m2/build/css/scss/_bootstrapComponents.scss */
+.inputWrapper .bold input:-moz-placeholder {
+  font-style: normal;
+  font-weight: bold !important;
+  color: #333 !important; }
+
+/* line 649, C:/superial-blue-m2/build/css/scss/_bootstrapComponents.scss */
+.inputWrapper .bold input:-ms-input-placeholder {
+  font-style: normal;
+  font-weight: bold !important;
+  color: #333 !important; }
+
+/* line 656, C:/superial-blue-m2/build/css/scss/_bootstrapComponents.scss */
+.left-inner-addon {
+  position: relative; }
+
+/* line 661, C:/superial-blue-m2/build/css/scss/_bootstrapComponents.scss */
+.inputWrapper .left-inner-addon input,
+.inputWrapper .left-inner-addon textarea {
+  padding-left: 30px !important; }
+
+/* line 665, C:/superial-blue-m2/build/css/scss/_bootstrapComponents.scss */
+.left-inner-addon i {
+  font-size: 20px;
+  position: absolute;
+  padding: 5px;
+  pointer-events: none;
+  color: #333; 
+  //color:#F1F4F5;
+
+}
+
+/* line 673, C:/superial-blue-m2/build/css/scss/_bootstrapComponents.scss */
+.inputWrapper .selectForm select:hover {
+  display: block;
+  color: #00e2f0; }
+
+/* line 678, C:/superial-blue-m2/build/css/scss/_bootstrapComponents.scss */
+.inputWrapper .selectForm option {
+  border: none;
+  -webkit-border-radius: 5px 5px 5px 5px;
+  border-radius: 5px 5px 5px 5px; }
+

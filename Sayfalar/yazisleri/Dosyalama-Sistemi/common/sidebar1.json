@@ -1,0 +1,23 @@
+{
+  items: [
+					{id: "evrakkayit", text: "Evrak Kayıt Birimi", text2: "11 dosya",bubble:8, 
+                                            enable_progress: "disable_progress", icon: "systemicon.png", selected: true},
+                                        {type: "separator"},
+					{id: "encumen", text: "Encümen Birimi", text2: "4 dosya",bubble:5,
+                                            enable_progress: "disable_progress", icon: "systemicon.png"},
+                                        {type: "separator"},
+					{id: "arsiv", text: "Arşiv Birimi", text2: "28 dosya",bubble:11,
+                                            enable_progress: "disable_progress", icon: "systemicon.png"},
+                                        {type: "separator"},
+					{id: "evlendirme", text: "Evlendirme Birimi", text2: "34 dosya", bubble:9,
+                                            enable_progress: "disable_progress", icon: "systemicon.png"},
+                                        {type: "separator"},
+					{id: "meclis", text: "Meclis Birimi", text2: "48 dosya", bubble:48,
+                                            enable_progress: "disable_progress", icon: "systemicon.png"},
+                                        {type: "separator"},
+					{id: "personel", text: "Personel Birimi", text2: "9 dosya", bubble:34,
+                                            enable_progress: "disable_progress", icon: "systemicon.png"},
+					{type: "separator"},
+				
+				]
+}

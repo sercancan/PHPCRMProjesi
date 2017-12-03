@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kuresel>
+	<head>
+		<column width="*" type="ro" align="left" sort="str">Dosya Adı</column>
+		<column width="*" type="ro" align="left" sort="int">Boyutu</column>
+		<column width="*" type="ro" align="left" sort="str">Yükleyen</column>
+	</head>
+	
+        <bilgi id="2">
+		<ad>Sercan Göger</ad>
+		<boyut><![CDATA[4765 Martina Springs]]></boyut>
+		<yukleyen><![CDATA[SD]]></yukleyen>
+	</bilgi>
+        <bilgi id="2">
+		<ad>Emin DEMİR</ad>
+		<boyut><![CDATA[4765 Martina Springs]]></boyut>
+		<yukleyen><![CDATA[SD]]></yukleyen>
+	</bilgi>
+        
+</kuresel>

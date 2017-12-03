@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<toolbar>
+	<item id="klasorOlustur"   type="button"   img="folderis.png"  imgdis="folderis.png"  text="Oluştur"  />
+	<item id="pdf"   type="button"   img="pdf.png"  imgdis="pdf.png"  text="PDF"  />
+        
+	<item id="sep2"   type="separator"/>
+        
+	<item id="word"    type="button"   img="word.png"   imgdis="word.png"   text="Word"   />
+	<item id="excel"   type="button"   img="excel.png"  imgdis="excel.png"  text="Excel"  />
+        <item id="pwrpoint"  type="button"   img="pptx.png" imgdis="pptx.png" text="Powerpoint" />
+         <item id="document"  type="button"   img="documents.png" imgdis="documents.png" text="Dökümanlar" />
+	<item id="jpeg"  type="button"   img="jpeg.png" imgdis="jpeg.png" text="JPEG" />
+        
+</toolbar>

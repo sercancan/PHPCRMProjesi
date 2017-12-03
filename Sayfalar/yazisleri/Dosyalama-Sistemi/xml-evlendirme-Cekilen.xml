@@ -1,0 +1,178 @@
+<rows>
+	<head>
+         <column width='40' type='ro' align='left' sort='str'>Tipi</column>
+		<column width='*' type='ro' align='left' sort='str'>Dosya Adı</column>
+                <column width='*' type='ro' align='left' sort='str'>Dosya Yüklenme Tarihi</column>
+		<column width='*' type='ro' align='left' sort='int'>Boyutu</column>
+		<column width='*' type='ro' align='left' sort='str'>Yükleyen</column>
+            </head>
+        <row id='1'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/jpeg.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/evlendirme-birimi-uploaded/10.jpg'>10.jpg</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>15.08.2016 16:22</cell>
+                                     <cell>69382</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='2'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/pdf.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/evlendirme-birimi-uploaded/12182012075642.pdf'>12182012075642.pdf</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>28.08.2016 12:43</cell>
+                                     <cell>1898751</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='3'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/pdf.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/evlendirme-birimi-uploaded/12182012075653.pdf'>12182012075653.pdf</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>28.08.2016 12:43</cell>
+                                     <cell>90335</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='4'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/pdf.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/evlendirme-birimi-uploaded/12182012075705.pdf'>12182012075705.pdf</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>28.08.2016 12:43</cell>
+                                     <cell>60223</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='5'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/folderis.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/evlendirme-birimi-uploaded/as'>as</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>28.08.2016 12:39</cell>
+                                     <cell>0</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='6'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/excel.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/evlendirme-birimi-uploaded/bodrum milletvekili.xlsx'>bodrum milletvekili.xlsx</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>24.08.2016 22:24</cell>
+                                     <cell>7709</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='7'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/excel.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/evlendirme-birimi-uploaded/gorusmeler.xlsx'>gorusmeler.xlsx</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>24.08.2016 22:24</cell>
+                                     <cell>7708</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='8'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/word.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/evlendirme-birimi-uploaded/hasas1.docx'>hasas1.docx</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>24.08.2016 22:21</cell>
+                                     <cell>11293</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='9'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/pdf.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/evlendirme-birimi-uploaded/ileri_seviye_javascript.pdf'>ileri_seviye_javascript.pdf</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>03.08.2016 17:15</cell>
+                                     <cell>291715</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='10'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/pdf.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/evlendirme-birimi-uploaded/jQuery_Cookbook 61.pdf'>jQuery_Cookbook 61.pdf</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>03.08.2016 17:15</cell>
+                                     <cell>5951960</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='11'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/folderis.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/evlendirme-birimi-uploaded/ken'>ken</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>28.08.2016 12:40</cell>
+                                     <cell>0</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='12'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/png.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/evlendirme-birimi-uploaded/S.png'>S.png</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>03.08.2016 19:36</cell>
+                                     <cell>970</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='13'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/png.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/evlendirme-birimi-uploaded/turkey.png'>turkey.png</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>03.08.2016 17:16</cell>
+                                     <cell>23908</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    </rows>

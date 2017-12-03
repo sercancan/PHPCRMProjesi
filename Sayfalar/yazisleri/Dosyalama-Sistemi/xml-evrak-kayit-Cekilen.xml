@@ -1,0 +1,167 @@
+<rows>
+	<head>
+                 <column width='40' type='ro' align='left' sort='str'>Tipi</column>
+		<column width='*' type='ro' align='left' sort='str'>Dosya Adı</column>
+                <column width='*' type='ro' align='left' sort='str'>Dosya Yüklenme Tarihi</column>
+		<column width='*' type='ro' align='left' sort='int'>Boyutu</column>
+		<column width='*' type='ro' align='left' sort='str'>Yükleyen</column>
+                
+                
+            </head>
+        <row id='1'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/pdf.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/evrak-kayit-birimi-uploaded/12182012075705_2.pdf'>12182012075705_2.pdf</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>28.08.2016 12:43</cell>
+                                     <cell>60223</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='2'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/pdf.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/evrak-kayit-birimi-uploaded/12182012075719.pdf'>12182012075719.pdf</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>28.08.2016 12:43</cell>
+                                     <cell>85408</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='3'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/pdf.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/evrak-kayit-birimi-uploaded/12182012081109.pdf'>12182012081109.pdf</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>28.08.2016 12:43</cell>
+                                     <cell>34897</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='4'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/pdf.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/evrak-kayit-birimi-uploaded/33_Printemps.pdf'>33_Printemps.pdf</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>28.08.2016 12:04</cell>
+                                     <cell>10447414</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='5'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/pptx.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/evrak-kayit-birimi-uploaded/alan geni�.pptx'>alan geni�.pptx</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>24.08.2016 22:19</cell>
+                                     <cell>0</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='6'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/documents.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/evrak-kayit-birimi-uploaded/Android Console.txt'>Android Console.txt</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>28.08.2016 12:33</cell>
+                                     <cell>5138</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='7'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/word.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/evrak-kayit-birimi-uploaded/kontroletme.docx'>kontroletme.docx</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>24.08.2016 22:21</cell>
+                                     <cell>11414</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='8'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/pdf.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/evrak-kayit-birimi-uploaded/lecture7.pdf'>lecture7.pdf</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>28.08.2016 12:27</cell>
+                                     <cell>3518239</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='9'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/documents.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/evrak-kayit-birimi-uploaded/Map CMD Zimbirtisi.txt'>Map CMD Zimbirtisi.txt</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>28.08.2016 12:33</cell>
+                                     <cell>1051</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='10'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/folderis.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/evrak-kayit-birimi-uploaded/ozcan'>ozcan</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>28.08.2016 12:38</cell>
+                                     <cell>0</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='11'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/png.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/evrak-kayit-birimi-uploaded/yazilimdilleri.png'>yazilimdilleri.png</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>03.08.2016 19:37</cell>
+                                     <cell>5368</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    <row id='12'><cell>
+                            <![CDATA[
+                              <img  src='./Dosyalama-Sistemi/TreeViewIcons/jpeg.png' height='20px' width='20px'/>
+                              ]]>
+                        </cell><cell>
+                                            <![CDATA[
+                                            <a href='../yazisleri/DATAS/evrak-kayit-birimi-uploaded/youtube.jpg'>youtube.jpg</a>
+                                                ]]>
+                                    </cell>
+                                    <cell>03.08.2016 19:37</cell>
+                                     <cell>11567</cell>
+                                     <cell>Sercan Göger</cell>
+                                </row>
+                                    </rows>

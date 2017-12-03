@@ -1,0 +1,93 @@
+//secenek.isChecked() // seçilmişmi seçilmemişmi diye kontrol yapar 
+			//secenek.setChecked(true) // klik işlemi yapar..
+			//	secenek.toggle() // secer veya kaldırır.
+	//
+				//secenek.setAllCaps(true); // scilen metni büyültür veya kücültür.
+				//secenek.setCursorVisible(visible); // imleçi gorunur veya gizler.
+				//secenek.setEnabled(true); // aktif ve pasi f hale getirir nesneyi
+				//secenek.setLineSpacing(10, 2); //nesnenin üstündeki texte satır aralgı bırakmak için
+				//Linkify.addLinks(nesne, linkify.ne yapcagı); // nesnede olan texti url yapar.. 
+				//text.setLinksClickable(false); // nesnedeki yazı url olsun mu olmasınmı ?
+			//	secenek.setPadding(left, top, right, bottom) // dolguyu kücültür beya büyültür..
+				 
+				//secenek.setShadowLayer(50, 50, 50, Color.RED); nesneye gölge verir..
+			//	secenek.setSingleLine() // tek satıra sıgdrırı texti
+				//secenek.setTextIsSelectable(false); üstünde secili gosteriyo ama clik olmadan 
+			//	secenek.setTextScaleX(5); // yazıyı yatay büyültür
+				
+
+
+	//geçiçi mesj    Toast mesaj = Toast.makeText(getApplicationContext(), "Mesjalarır", Toast.LENGTH_LONG);
+
+
+
+//label.setHorizontallyScrolling(false); // texti alt alta yazar false ise.
+			//label.setScrollX(i); // sol dogru kaydırır
+				//label.setLineSpacing(2, 4); // texttin satır aralıgını belirler.
+			// label.scrollBy(20, 2); nesneyi kaydırır
+				//buton1.setClickable(false); //nesneyi tıklattırç veya pasif hale getirir.	
+		//	label.setActivated(activated) // nesneyi actif yapar.
+	
+					
+				//buton1.setBackgroundResource(R.drawable.ic_launcher);// nesneye resim yükleme ;)
+				//sercanbot.append("dünya");
+				//sercanbot.append("ANDROİD",0,3);
+				//sercanbot.append(String.valueOf(44)); // int veriyi stringe dönüştürüyor.
+				//sercanbot.setFocusable(false);	 //TAB Tusunu aktif veya pasif duruma getırıyo..
+				//sercanbot.setWidth(66);
+				//buton1.setTag("masa");
+				//buton1.setTop(i);
+				//buton1.setVisibility(buton1.INVISIBLE); // gizler veya visible diyerek aktif yapabil..
+				//buton1.setClickable(false); butonu kullanıcıya  pasif hala getirir.
+				//buton1.setX(200);   buton1.setY(500);   butonu konumlandırır .x: yatay y : dikey	
+				//renk	buton1.setTextColor(Color.BLUE);
+				//buton1.isdirty()   degişikilk varmı yokmu bakar..
+				//buton1.setEnabled(false);  dondurur
+				//buton1.isFocused(); klavyeden odaklanıp enter basıldıgında durumnda true olur diger koşullar pasiftir.
+				///buton1.offsetLeftAndRight(10); soldan sağa kaydırır. eksi verdiginde sola dogru kaymaya başlar
+				//buton1.offsetTopAndBottom(-10); // yukardan aşağıya ve aşağıdan yukarıya dugmeyi oynatır..
+				//buton1.scrollBy(2, 2); text taşır veya  kaydırır..
+			
+			//	buton1.setRotation(70); // efekt verme işlemi dondürme falan itşe
+				//buton2.setRotationX(0); nesneyi yatay konumlandırır
+				//buton2.setRotationY(-55); nesneyi dikey konumlandırır  (tam tersi için - oprtr kullan.)
+			
+
+//	edit2.setHorizontallyScrolling(true); // satır atlatır veya tke stır yazdıırr		
+	
+		//	edit.setHighlightColor(Color.RED);
+			//.setHorizontallyScrolling(false);
+			
+/*InputFilter[] filter = new InputFilter[1];
+			filter[0] = new InputFilter.LengthFilter(7);     //VERİ GİRİŞİNİ KISITLAR
+			edit.setFilters(filter);*/
+			
+				//edit.extendSelection(5);// belirtilen kadar metni işaretler.. seçer..
+				//edit.selectAll()  bütün metni seçer
+			//edit.setSelection(4); // imleci taşır
+			//edit.setSelection(start, stop)// belitrilen rakam arası seçe..
+
+
+
+//list.setHorizontalScrollBarEnabled(true); // yatay scroll ekler
+			//list.setFocusable(false); // tab la odaklanma durumu
+				
+				//list.getCount() tüm listeyi döndürür
+				//list.getChildCount() // ekran gorunur olan elemenı sayar gösterir.
+				//list.getLastVisiblePosition()) //listedeki en son deergi doner sayfa sayfa döndürür;
+				//list.getItemAtPosition(3) // istenilen deger getirirlir.
+			//	list.smoothScrollBy(50, 1000); // sizin belirlediginiz aralıkta  kaydırr		
+				//list.setVerticalScrollbarPosition(list.SCROLLBAR_POSITION_LEFT);   // kaydırma cubugnuu saga veya sole taşır
+			//	list.setVerticalScrollBarEnabled(true);        // kaydrmayı aktif yapar                 
+			//	list.setStackFromBottom(true); listeyi en alta çeker.	
+				///list.setTextFilterEnabled(false); // veri araması için kullanılır özelliği acmak gerekir.
+				//.setFilterText("java");
+			//	list.setCacheColorHint(Color.RED); // kaydırırken arka plan rengi ile 
+				//list.setScrollingCacheEnabled(false); aktif yapar kaydırmayı veya pasif	
+			//	list.setFastScrollAlwaysVisible(true); // görünen kaydırma cubugu ekle 
+				// list.smoothScrollByOffset(5);     // listeyi kaydırır - ile yukarıda dogru kayar.yukarı asaga
+			//	list.addFooterView(but);  // nesne ekletir.
+			//	list.setFooterDividersEnabled(false);  // nesne ile elemn arası izgi
+				//list.setDividerHeight(8); // aradıki cizgiyi kalınlaştırır..
+
+	

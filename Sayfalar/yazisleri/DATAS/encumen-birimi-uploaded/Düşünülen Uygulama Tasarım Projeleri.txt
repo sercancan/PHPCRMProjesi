@@ -1,0 +1,14 @@
+Türkiye Rehberi Uyguluması Tasarımı
+bir liste içinde türkiyedeki turistlik yerlerin isimlerine tıklandıgındaa harita ile o yerin üstüne gidilerek gidilmeden once gidilecek
+bu yer hakkında bir on bilgi kulllanıcıya verilmesidir
+
+-----------------------------
+Apartman Durum Uyguulaması Tasarımı
+ana activiy içinde Şikayet-İstek-Duyuru Bölümü oluşturularak istemcilerin istediği istek bölümüne 
+istediği bölüme yazıcakları kayıtları aynı zamanda bu 3 bölüm(Şikayet-İstek-Duyuru) bölümünde göstererek
+kullanıcıların apartmanları hakkındaki durumları bilmek.
+Programı ilk yukleyenler programa kayıt yaptırıcaktır.
+Kat no - Daire No - gibi bilgiler alarak kullanıcıyı uygulama içinde tanımlamaktır. sebebi ise,
+kullanıcı bir istek şikayet veya duyuru yapıcagı zaman yazan kişinin bir nevi kimliğini belirlemektir.
+
+--------------------------

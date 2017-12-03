@@ -1,0 +1,73 @@
+
+html, body{
+                margin:0px;
+		padding:0px;
+		height:100%;
+                 height:100%;	
+	}
+        //SATIRLARIN YANIP YANIP SONME DURUMU BAŞLANGIC
+        .highlighted_timespan {
+		transition: background-color 400ms;
+		-moz-transition: background-color 400ms;
+		-webkit-transition: background-color 400ms;
+		-o-transition: background-color 400ms;
+		opacity:0.4;
+		filter:alpha(opacity=40);
+	}
+	.highlighted_timespan:hover {
+		//background-color: #90ee90;
+                background-color:#AF768F;
+	}
+         //SATIRLARIN YANIP YANIP SONME DURUMU SONU
+         
+         //RENKLENDIRME BASLANGIC
+         
+         	.dhx_cal_event div.dhx_footer,
+		.dhx_cal_event.past_event div.dhx_footer,
+		.dhx_cal_event.event_pembe div.dhx_footer,
+		.dhx_cal_event.event_turuncu div.dhx_footer,
+		.dhx_cal_event.event_yesil div.dhx_footer{
+			background-color: transparent !important;
+		}
+		.dhx_cal_event .dhx_body{
+			-webkit-transition: opacity 0.1s;
+			transition: opacity 0.1s;
+			opacity: 0.7;
+		}
+		.dhx_cal_event .dhx_title{
+			line-height: 12px;
+		}
+		.dhx_cal_event_line:hover,
+		.dhx_cal_event:hover .dhx_body,
+		.dhx_cal_event.selected .dhx_body,
+		.dhx_cal_event.dhx_cal_select_menu .dhx_body{
+			opacity: 1;
+		}
+
+		.dhx_cal_event.event_turuncu div, .dhx_cal_event_line.event_turuncu{
+			background-color: orange !important;
+			border-color: #a36800 !important;
+		}
+		.dhx_cal_event_clear.event_turuncu{
+			color:orange !important;
+		}
+
+		.dhx_cal_event.event_yesil div, .dhx_cal_event_line.event_yesil{
+			background-color: #36BD14 !important;
+			border-color: #698490 !important;
+		}
+		.dhx_cal_event_clear.event_yesil{
+			color:#36BD14 !important;
+		}
+
+		.dhx_cal_event.event_pembe div, .dhx_cal_event_line.event_pembe{
+                    background-color: #FC5BD5 !important;
+                      
+			border-color: #839595 !important;
+		}
+		.dhx_cal_event_clear.event_pembe{
+			color:#B82594 !important;
+                        
+		}
+         
+         //RENKLENDIRME BITIS

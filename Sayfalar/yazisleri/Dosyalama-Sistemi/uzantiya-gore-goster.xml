@@ -1,0 +1,258 @@
+<rows>
+	    <head>
+		<column width='*' type='ro' align='left' sort='str'>Dosya Adı</column>
+                <column width='150' type='ro' align='left' sort='str'>Dosya Yüklenme Tarihi</column>
+		<column width='80' type='ro' align='left' sort='int'>Boyutu</column>
+		<column width='150' type='ro' align='left' sort='str'>Yükleyen</column>
+            </head>
+        <row id='2'>
+                               <cell>
+                                             <![CDATA[
+                                            <a href='../yazisleri/DATAS/meclis-birimi-uploaded/09172012094454.pdf'>meclis-birimi-uploaded/09172012094454.pdf</a>
+                                                ]]>
+                                   </cell>
+                                   <cell>28.08.2016 12:43</cell>
+                                     <cell>71693</cell>
+                                     <cell>Sercan Göger</cell>
+                      </row>
+                                    <row id='3'>
+                               <cell>
+                                             <![CDATA[
+                                            <a href='../yazisleri/DATAS/meclis-birimi-uploaded/12182012075748.pdf'>meclis-birimi-uploaded/12182012075748.pdf</a>
+                                                ]]>
+                                   </cell>
+                                   <cell>28.08.2016 12:43</cell>
+                                     <cell>58701</cell>
+                                     <cell>Sercan Göger</cell>
+                      </row>
+                                    <row id='4'>
+                               <cell>
+                                             <![CDATA[
+                                            <a href='../yazisleri/DATAS/meclis-birimi-uploaded/Betik Dili (javascript).pdf'>meclis-birimi-uploaded/Betik Dili (javascript).pdf</a>
+                                                ]]>
+                                   </cell>
+                                   <cell>07.08.2016 16:18</cell>
+                                     <cell>1265175</cell>
+                                     <cell>Sercan Göger</cell>
+                      </row>
+                                    <row id='5'>
+                               <cell>
+                                             <![CDATA[
+                                            <a href='../yazisleri/DATAS/meclis-birimi-uploaded/JavaScript-kitap.pdf'>meclis-birimi-uploaded/JavaScript-kitap.pdf</a>
+                                                ]]>
+                                   </cell>
+                                   <cell>07.08.2016 16:18</cell>
+                                     <cell>386844</cell>
+                                     <cell>Sercan Göger</cell>
+                      </row>
+                                    <row id='6'>
+                               <cell>
+                                             <![CDATA[
+                                            <a href='../yazisleri/DATAS/meclis-birimi-uploaded/android_advanced_tutorial.pdf'>meclis-birimi-uploaded/android_advanced_tutorial.pdf</a>
+                                                ]]>
+                                   </cell>
+                                   <cell>28.08.2016 12:42</cell>
+                                     <cell>7299175</cell>
+                                     <cell>Sercan Göger</cell>
+                      </row>
+                                    <row id='7'>
+                               <cell>
+                                             <![CDATA[
+                                            <a href='../yazisleri/DATAS/meclis-birimi-uploaded/ileri_seviye_javascript.pdf'>meclis-birimi-uploaded/ileri_seviye_javascript.pdf</a>
+                                                ]]>
+                                   </cell>
+                                   <cell>07.08.2016 16:18</cell>
+                                     <cell>291715</cell>
+                                     <cell>Sercan Göger</cell>
+                      </row>
+                                    <row id='8'>
+                               <cell>
+                                             <![CDATA[
+                                            <a href='../yazisleri/DATAS/meclis-birimi-uploaded/jQuery_Cookbook 61.pdf'>meclis-birimi-uploaded/jQuery_Cookbook 61.pdf</a>
+                                                ]]>
+                                   </cell>
+                                   <cell>08.08.2016 10:49</cell>
+                                     <cell>5951960</cell>
+                                     <cell>Sercan Göger</cell>
+                      </row>
+                                    <row id='9'>
+                               <cell>
+                                          <![CDATA[
+                                            <a href='../yazisleri/DATAS/encumen-birimi-uploaded/Tarih ve Zaman ��lemleri.pdf'>encumen-birimi-uploaded/Tarih ve Zaman ��lemleri.pdf</a>
+                                                ]]>
+                                </cell>
+                                   <cell>28.08.2016 11:39</cell>
+                                     <cell>81323</cell>
+                                     <cell>Sercan Göger</cell>
+                      </row>
+                                    <row id='10'>
+                               <cell>
+                                          <![CDATA[
+                                            <a href='../yazisleri/DATAS/encumen-birimi-uploaded/lecture3.pdf'>encumen-birimi-uploaded/lecture3.pdf</a>
+                                                ]]>
+                                </cell>
+                                   <cell>28.08.2016 12:07</cell>
+                                     <cell>1605567</cell>
+                                     <cell>Sercan Göger</cell>
+                      </row>
+                                    <row id='11'>
+                               <cell>
+                                          <![CDATA[
+                                            <a href='../yazisleri/DATAS/evlendirme-birimi-uploaded/12182012075642.pdf'>evlendirme-birimi-uploaded/12182012075642.pdf</a>
+                                                ]]>
+                               </cell>
+                                   <cell>28.08.2016 12:43</cell>
+                                     <cell>1898751</cell>
+                                     <cell>Sercan Göger</cell>
+                      </row>
+                                    <row id='12'>
+                               <cell>
+                                          <![CDATA[
+                                            <a href='../yazisleri/DATAS/evlendirme-birimi-uploaded/12182012075653.pdf'>evlendirme-birimi-uploaded/12182012075653.pdf</a>
+                                                ]]>
+                               </cell>
+                                   <cell>28.08.2016 12:43</cell>
+                                     <cell>90335</cell>
+                                     <cell>Sercan Göger</cell>
+                      </row>
+                                    <row id='13'>
+                               <cell>
+                                          <![CDATA[
+                                            <a href='../yazisleri/DATAS/evlendirme-birimi-uploaded/12182012075705.pdf'>evlendirme-birimi-uploaded/12182012075705.pdf</a>
+                                                ]]>
+                               </cell>
+                                   <cell>28.08.2016 12:43</cell>
+                                     <cell>60223</cell>
+                                     <cell>Sercan Göger</cell>
+                      </row>
+                                    <row id='14'>
+                               <cell>
+                                          <![CDATA[
+                                            <a href='../yazisleri/DATAS/evlendirme-birimi-uploaded/ileri_seviye_javascript.pdf'>evlendirme-birimi-uploaded/ileri_seviye_javascript.pdf</a>
+                                                ]]>
+                               </cell>
+                                   <cell>03.08.2016 17:15</cell>
+                                     <cell>291715</cell>
+                                     <cell>Sercan Göger</cell>
+                      </row>
+                                    <row id='15'>
+                               <cell>
+                                          <![CDATA[
+                                            <a href='../yazisleri/DATAS/evlendirme-birimi-uploaded/jQuery_Cookbook 61.pdf'>evlendirme-birimi-uploaded/jQuery_Cookbook 61.pdf</a>
+                                                ]]>
+                               </cell>
+                                   <cell>03.08.2016 17:15</cell>
+                                     <cell>5951960</cell>
+                                     <cell>Sercan Göger</cell>
+                      </row>
+                                    <row id='16'>
+                               <cell>
+                                          <![CDATA[
+                                            <a href='../yazisleri/DATAS/arsiv-birimi-uploaded/013143697X_book.pdf'>arsiv-birimi-uploaded/013143697X_book.pdf</a>
+                                                ]]>
+                                </cell>
+                                   <cell>28.08.2016 13:40</cell>
+                                     <cell>3383066</cell>
+                                     <cell>Sercan Göger</cell>
+                      </row>
+                                    <row id='17'>
+                               <cell>
+                                          <![CDATA[
+                                            <a href='../yazisleri/DATAS/arsiv-birimi-uploaded/756.pdf'>arsiv-birimi-uploaded/756.pdf</a>
+                                                ]]>
+                                </cell>
+                                   <cell>28.08.2016 13:40</cell>
+                                     <cell>25259544</cell>
+                                     <cell>Sercan Göger</cell>
+                      </row>
+                                    <row id='18'>
+                               <cell>
+                                          <![CDATA[
+                                            <a href='../yazisleri/DATAS/arsiv-birimi-uploaded/Event e.pdf'>arsiv-birimi-uploaded/Event e.pdf</a>
+                                                ]]>
+                                </cell>
+                                   <cell>28.08.2016 13:40</cell>
+                                     <cell>765190</cell>
+                                     <cell>Sercan Göger</cell>
+                      </row>
+                                    <row id='19'>
+                               <cell>
+                                          <![CDATA[
+                                            <a href='../yazisleri/DATAS/arsiv-birimi-uploaded/javaeetutorial6.pdf'>arsiv-birimi-uploaded/javaeetutorial6.pdf</a>
+                                                ]]>
+                                </cell>
+                                   <cell>28.08.2016 13:39</cell>
+                                     <cell>13573683</cell>
+                                     <cell>Sercan Göger</cell>
+                      </row>
+                                    <row id='20'>
+                               <cell>
+                                          <![CDATA[
+                                            <a href='../yazisleri/DATAS/arsiv-birimi-uploaded/yay�n al�c�.pdf'>arsiv-birimi-uploaded/yay�n al�c�.pdf</a>
+                                                ]]>
+                                </cell>
+                                   <cell>28.08.2016 12:11</cell>
+                                     <cell>85408</cell>
+                                     <cell>Sercan Göger</cell>
+                      </row>
+                                    <row id='21'>
+                               <cell>
+                                           <![CDATA[
+                                            <a href='../yazisleri/DATAS/evrak-kayit-birimi-uploaded/12182012075705_2.pdf'>evrak-kayit-birimi-uploaded/12182012075705_2.pdf</a>
+                                                ]]>
+                                </cell>
+                                   <cell>28.08.2016 12:43</cell>
+                                     <cell>60223</cell>
+                                     <cell>Sercan Göger</cell>
+                      </row>
+                                    <row id='22'>
+                               <cell>
+                                           <![CDATA[
+                                            <a href='../yazisleri/DATAS/evrak-kayit-birimi-uploaded/12182012075719.pdf'>evrak-kayit-birimi-uploaded/12182012075719.pdf</a>
+                                                ]]>
+                                </cell>
+                                   <cell>28.08.2016 12:43</cell>
+                                     <cell>85408</cell>
+                                     <cell>Sercan Göger</cell>
+                      </row>
+                                    <row id='23'>
+                               <cell>
+                                           <![CDATA[
+                                            <a href='../yazisleri/DATAS/evrak-kayit-birimi-uploaded/12182012081109.pdf'>evrak-kayit-birimi-uploaded/12182012081109.pdf</a>
+                                                ]]>
+                                </cell>
+                                   <cell>28.08.2016 12:43</cell>
+                                     <cell>34897</cell>
+                                     <cell>Sercan Göger</cell>
+                      </row>
+                                    <row id='24'>
+                               <cell>
+                                           <![CDATA[
+                                            <a href='../yazisleri/DATAS/evrak-kayit-birimi-uploaded/33_Printemps.pdf'>evrak-kayit-birimi-uploaded/33_Printemps.pdf</a>
+                                                ]]>
+                                </cell>
+                                   <cell>28.08.2016 12:04</cell>
+                                     <cell>10447414</cell>
+                                     <cell>Sercan Göger</cell>
+                      </row>
+                                    <row id='25'>
+                               <cell>
+                                           <![CDATA[
+                                            <a href='../yazisleri/DATAS/evrak-kayit-birimi-uploaded/lecture7.pdf'>evrak-kayit-birimi-uploaded/lecture7.pdf</a>
+                                                ]]>
+                                </cell>
+                                   <cell>28.08.2016 12:27</cell>
+                                     <cell>3518239</cell>
+                                     <cell>Sercan Göger</cell>
+                      </row>
+                                    <row id='26'>
+                               <cell>
+                                          <![CDATA[
+                                            <a href='../yazisleri/DATAS/personel-birimi-uploaded/12182012075817.pdf'>personel-birimi-uploaded/12182012075817.pdf</a>
+                                                ]]>
+                                </cell>
+                                   <cell>28.08.2016 12:43</cell>
+                                     <cell>95048</cell>
+                                     <cell>Sercan Göger</cell>
+                      </row>
+                                    </rows>
